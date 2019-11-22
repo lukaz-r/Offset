@@ -16,9 +16,8 @@ public class Aluno implements Serializable {
 		this.matricula = matricula;
 		this.telefone = telefone;
 	}
-	public Aluno() {
-		
-	}
+	
+	
 	public String getNome() {
 		return nome;
 	}
